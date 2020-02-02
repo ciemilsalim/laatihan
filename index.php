@@ -11,6 +11,14 @@
 <body>
     <h1>latihan 2</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, ut ad provident aliquam modi cupiditate voluptatum ducimus maxime debitis, minima ratione odit consequatur fugiat non neque itaque ipsa rerum aperiam?</p>
+    <ul>
+        <li>
+            hahaa
+        </li>
+        <li>
+            hihiii
+        </li>
+    </ul>
 </body>
 
 </html>
